@@ -27,11 +27,11 @@ Multi Joueurs : 1 min, 2 Max.
     baskets qui courent vite : quand j'appuie sur espace je marche plus vite pendant 5 sec (30 sec de recharge)
     armure ia sympa : mon maïs est entouré d'un bouclier bleu qui me permet de rester dans la zone de wifi pendant 5 sec avant de se briser. il se régénère en 1 minute.
 - exemple d'effets temporaires aléatoires trouvés sur la map :
-    effets maléfiques :
+    # effets maléfiques :
     - ralentissement 5 sec
     - écran flou 10 sec
     - touches échangées pendant 20 sec
-  effets bénéfiques :
+  # effets bénéfiques :
     - armure suplémentaire 20 sec / 10 d'armure
     - téléportation instantanée à 10 cases de la sortie si on est à plus de 20 cases
     - l'épi de mais devient plus grand pendant 15 sec et peut foncer sur un ennemi physique sans subir de dégats
