@@ -20,7 +20,7 @@ Multi Joueurs : 1 min, 2 Max.
 - si on n'a pas le temps de faire l'animation de la perte des points de vie sur le maïs, il faut afficher une barre de vie ou aumoins un décompte
 - on doit arriver jusqu'à une sortie représentée par de la terre viable.
 - les points de vie sont égaux au nombre de grain de mais sur l'épi. Arrivé à 0, on explose en confettis de pop corn.
-- on a un système d'xp avec pallier, à chaque montée de niveau on choisit entre 3 effets bénéfiques permanents (2 effets random sont proposés + toujours dispo le choix d'enelever 2 pop corn (soigner 2 points de vie))
+- à chaque changement de niveau on choisit entre 3 effets bénéfiques permanents (2 effets random sont proposés + toujours dispo le choix d'enelever 2 pop corn (soigner 2 points de vie))
 - sur la map on trouve des caisses où un effet est attribué temporairement au joueur, cet effet peut etre bénéfique ou maléfique pour le joueur.
 - exemples d'effets permanents proposés au passage de niveau du joueur :
     casque en fer qui tank une onde wifi (cet effet se régénère toutes les 30 sec)
@@ -31,13 +31,12 @@ Multi Joueurs : 1 min, 2 Max.
     - ralentissement 5 sec
     - écran flou 10 sec
     - touches échangées pendant 20 sec
-  ## effets bénéfiques :
+    ## effets bénéfiques :
     - armure suplémentaire 20 sec / 10 d'armure
     - téléportation instantanée à 10 cases de la sortie si on est à plus de 20 cases
     - l'épi de mais devient plus grand pendant 15 sec et peut foncer sur un ennemi physique sans subir de dégats
  
   ## autres infos : 
- 
   - si on n'a pas le temps d'animer les effets, ils sont éxpliqués en phrase qq part sur l'écran, avec le décomptes des secondes restantes
   - pour les effets permanents, on a aussi les infos affichées et le décomptes pour les temps de rechargements 
     
